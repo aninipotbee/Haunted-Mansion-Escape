@@ -36,7 +36,7 @@ Find the **Brass Key** and the **Silver Key**, then reach the **Front Gate** bef
 ## Technical info
 - Framework: Tkinter (included with Python)
 - Python version: 3.10
-- Setup: `git clone <repo-url>` then `cd` into the folder. No packages to install.
+- Setup: `git clone <(https://github.com/aninipotbee/Haunted-Mansion-Escape.git)>` then `cd` into the folder. No packages to install.
   On Linux, if Tkinter is missing: `sudo apt install python3-tk`
 - Launch: `python main.py`
 - Tests: `python -m unittest -v`
